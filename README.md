@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih Berat</h1>
-<h3 align="center">I am computer engineering student at Harran University. I have been learning coding and almost since 1 year. Now, I develop myself about machine learning and web development branches. Keep follow me for more information!</h3>
+<h3 align="center">I am computer engineering student at Harran University. I have been learning coding almost since 1 year. Now, I develop myself about machine learning and web development branches. Keep follow me for more information!</h3>
 <h3 align="center"><b>My Knowledges Are: </b> HTML, CSS, JAVASCRIPT, NODEJS, EXPRESSJS, MySQL, MongoDB, Python, Matlab, Seaborn, scikit-learn, OOP, Data Structures and Algoithms</h3>
 
 
