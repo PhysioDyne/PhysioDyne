@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semih Berat</h1>
 <h3 align="center">I am computer engineering student at Harran University. I have been learning coding. Now, I develop myself about machine learning and web development branches.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=physiodyne&label=Profile%20views&color=0e75b6&style=flat" alt="physiodyne" /> </p>
-
 - 🌱 I’m currently learning **Nodejs and scikit-learn**
 
 - 💬 Ask me about **Web Development & Machine Learning**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physiodyne&show_icons=true&locale=en&layout=compact" alt="physiodyne" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physiodyne&show_icons=true&locale=en" alt="physiodyne" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physiodyne&" alt="physiodyne" /></p>
