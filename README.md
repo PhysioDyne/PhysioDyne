@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih Berat</h1>
-<h3 align="center">I am computer engineering student at Harran University. I have been learning coding. Now, I develop myself about machine learning and web development branches.</h3>
-
-- 🔭 I’m currently working on [SocitiyWebProject](https://github.com/PhysioDyne/SocityWebProject)
-
-- 🌱 I’m currently learning **MachineLearning**
-
-- 📫 How to reach me **semihberat55@gmail.com**
-
-- ⚡ Fun fact **Just I am caveman who trying to learn computer sciences.**
+<h3 align="center">I am computer engineering student at Harran University. I have been learning coding. Now, I develop myself about machine learning and robotic systems.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
