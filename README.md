@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semih Berat</h1>
 <h3 align="center">I am computer engineering student at Harran University. I have been learning coding. Now, I develop myself about machine learning and robotic systems.</h3>
 
-columnDefs: [
-    { targets: '_all', width: '100px' }
 
 
 ## 🌐 Socials:
@@ -28,4 +26,4 @@ columnDefs: [
 [![](https://visitcount.itsvg.in/api?id=PhysioDyne&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-]
+
