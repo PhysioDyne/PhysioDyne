@@ -22,6 +22,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=physiodyne&show_icons=true&theme=onedark&cache_seconds=1800&locale=en&layout=compact" alt="physiodyne" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physiodyne&show_icons=true&theme=onedark&locale=en" alt="physiodyne" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physiodyne&theme=dark" alt="physiodyne" /></p>
