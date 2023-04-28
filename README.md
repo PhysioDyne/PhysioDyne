@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Semih Berat</h1>
-<h3 align="center">I am computer engineering student at Harran University. I have been learning coding. Now, I develop myself about machine learning and robotic systems.</h3>
+<h2 align="left">Hi 👋! I am Semih and I am a developer</h2>
 
 ###
 
