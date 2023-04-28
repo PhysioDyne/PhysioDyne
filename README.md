@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Semih Berat</h1>
 <h3 align="center">I am computer engineering student at Harran University. I have been learning coding. Now, I develop myself about machine learning and robotic systems.</h3>
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
+columnDefs: [
+    { targets: '_all', width: '100px' }
+]
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/physiodyne) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/semihberaterdogan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PhysioDyne) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PhysioDyne) 
 
