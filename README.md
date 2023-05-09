@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Semih Berat</h1>
 <h3 align="center">I am computer engineering student at Harran University. I have been learning coding. Now, I develop myself about machine learning and web development branches.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=physiodyne&label=Profile%20views&color=0e75b6&style=flat" alt="physiodyne" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=physiodyne" alt="physiodyne" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [SocitiyWebProject](https://github.com/PhysioDyne/SocityWebProject)
@@ -31,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=physiodyne&show_icons=true&theme=onedark&locale=en" alt="physiodyne" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=physiodyne&theme=dark" alt="physiodyne" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=physiodyne&label=Profile%20views&color=0e75b6&style=flat" alt="physiodyne" /> </p>
+
