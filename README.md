@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Semih Berat</h1>
 <h3 align="center">I am computer engineering student at Harran University. I have been learning coding. Now, I develop myself about machine learning and web development branches.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="ceneter">
 <a href="https://linkedin.com/in/semihberaterdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="semihberaterdogan" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/semihberaterdoan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/semihberaterdoan" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/physiodyne.js/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/physiodyne.js/" height="30" width="40" /></a>
