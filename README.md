@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semih Berat</h1>
-<h3 align="center">I am computer engineering student at Ondokuz Mayıs University. I have been learning coding almost 1 year. Now, I develop myself about machine learning and web development branches.</h3>
+<h3 align="center">I am computer engineering student at Ondokuz Mayıs University. I have been learning coding almost 1 year. I develop myself about Machine Learning and Embedded Systems. My only purpose is learning about a lot of things about Computer Sciences.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
