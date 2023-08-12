@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Semih Berat Erdogan</h1>
+<h1 align="center">Hi 👋, I'm Semih</h1>
 <h3 align="center">I am computer engineering student from Turkey!</h3>
 
 
